@@ -10,9 +10,9 @@
 // console.log (x)
 // console.log(typeof(x))
 
-let name = "Web_bocket";
-console.log(b)
-console.log(typeof(b))
+// let name = "Web_bocket";
+// console.log(b)
+// console.log(typeof(b))
 
 // let a = null;
 // console.log(a)
@@ -26,3 +26,15 @@ console.log(typeof(b))
 // console.log(y);
 // console.log(y.description); // its show the unique value of the symbol
 // console.log(typeof(y));
+
+let shradha ={
+    "name":"shradha suman",
+    "age":"25",
+    "address":"Bhubaneswar",
+    "salary":34000
+}
+
+console.log(shradha);
+console.log(shradha["age"]);
+console.log(shradha["salary"]);
+console.log(shradha["address"]);

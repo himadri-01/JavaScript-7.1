@@ -51,3 +51,33 @@ string :- string is a type of data that can hold some character likes name or wo
 Symbol :- in symbol we will get whole symbol as well as the value we get for the data type.
 
 2. Refrence
+Non primitive data type are the type of the datatype that can hold multiple items in the single time.
+Non primitive datatypes are -object,array & function
+-object is the non primitive data type which can hold multiple item in one single entity.
+-mainly objects are working on(key:value)pair.
+-the left hand side is our keys are right hand side are the value of that key
+
+ex of object
+person= { 
+    "name" : "web-bucket",
+    "age" :2,
+    "business":"software",
+    "carrier":"good"
+}
+ex. of array:-
+let arr=[1,2,4,5,8,6,9,3,2]
+note-arr indexing start from "0".
+ 
+ ex. of function:-
+ function great()
+ {
+    console.log("hello world")
+ }
+ great()
+
+ Operator in javascript:-
+
+ -operator are the key feature to do some task or operator some task
+ -ex.a+b
+ in that given example A&B are the operands,"+" sign is our opearator'
+ there are 5 types of operator
