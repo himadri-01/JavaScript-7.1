@@ -10,9 +10,9 @@
 // console.log (x)
 // console.log(typeof(x))
 
-// let name = "Web_bocket";
-// console.log(b)
-// console.log(typeof(b))
+let name = "Web_bocket";
+console.log(b)
+console.log(typeof(b))
 
 // let a = null;
 // console.log(a)
@@ -22,7 +22,7 @@
 // console.log(mySalary)
 // console.log(typeof(mySalary))
 
-let y = Symbol("hello");
-console.log(y);
-console.log(y.description); // its show the unique value of the symbol
-console.log(typeof(y));
+// let y = Symbol("hello");
+// console.log(y);
+// console.log(y.description); // its show the unique value of the symbol
+// console.log(typeof(y));
