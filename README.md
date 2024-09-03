@@ -79,5 +79,38 @@ note-arr indexing start from "0".
 
  -operator are the key feature to do some task or operator some task
  -ex.a+b
- in that given example A&B are the operands,"+" sign is our opearator'
- there are 5 types of operator
+ -in that given example A&B are the operands,"+" sign is our opearator'
+ -there are 5 types of operator are their in javascript
+
+ 1.Arithematic Operator->(+,-,,/,%(modulo),*(exponents)).
+ 2.unary operator-> ++(increment),--(decrement)
+ 3.assignment operator->(=,+=,-=,=,*=)
+ 4.logical operator->(logical and operator-&&),(logical or operator ||)
+ 5.comparision operator->(==,!=,!==,===).
+
+ Conditional Statement in Javascripct:-
+ -conditional statement are used to Impliment some condition in code
+ -There are 3 types of coditional statement are their in javascripct
+ 1. IF CONDITION:-
+ -IF condition is true them statement is execuited
+ syntax;-
+ if (condition){
+    statement
+ }
+ 2. if else condition:-
+ -IF condition is true then IF block is execuited otherwise its terminal to else condition.
+ -syntax
+ if(condition){
+    statement
+ }else{
+    statement
+ }
+
+ 3. else-if condition:-
+ -if 
+ -syntax:-
+ if(condition){
+    statement
+ }else{
+    statement
+ }
